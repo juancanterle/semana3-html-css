@@ -6,7 +6,7 @@ Replica básica de una noticia online utilizando **HTML semántico** y **CSS** p
 
 ## Archivos
 
-- `index.html` — estructura HTML de la noticia.
+- `Noticia.html` — estructura HTML de la noticia.
 - `style.css` — hoja de estilos.
 
 ## Noticia original
