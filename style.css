@@ -154,36 +154,36 @@ article p {
 
 /* CHEQUEOS — flujo continuo, sin cajas */
 .chequeo {
-	margin: 28px 0;
+	margin: 36px 0;
 }
 
 .chequeo blockquote {
-	border-left: 3px solid #00a1e0;
-	padding: 4px 16px;
-	margin-bottom: 12px;
-	font-size: 17px;
-	font-style: italic;
-	color: #222;
+	font-size: 28px;
+	font-weight: 800;
+	color: #111;
+	line-height: 1.2;
+	margin-bottom: 14px;
+	font-style: normal;
 }
 
-/* VEREDICTOS */
+/* VEREDICTOS — bloque grande tipo banner */
 .veredicto {
 	display: inline-block;
-	padding: 4px 12px;
-	border-radius: 2px;
+	padding: 10px 22px;
 	color: #fff;
-	font-size: 12px;
-	font-weight: bold;
+	font-size: 36px;
+	font-weight: 800;
 	text-transform: uppercase;
 	letter-spacing: 0.5px;
-	margin-bottom: 12px;
+	margin-bottom: 18px;
+	line-height: 1.1;
 }
 
-.veredicto.verdadero  { background-color: #2ecc71; }
-.veredicto.enganoso   { background-color: #f39c12; }
-.veredicto.exagerado  { background-color: #e67e22; }
-.veredicto.discutible { background-color: #95a5a6; }
-.veredicto.falso      { background-color: #e74c3c; }
+.veredicto.verdadero  { background-color: #4ade80; }
+.veredicto.enganoso   { background-color: #f97e5a; }
+.veredicto.exagerado  { background-color: #f97e5a; }
+.veredicto.discutible { background-color: #f97e5a; }
+.veredicto.falso      { background-color: #ef4444; }
 
 /* APOYO */
 .apoyo {
